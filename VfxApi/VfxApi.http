@@ -1,0 +1,6 @@
+@VfxApi_HostAddress = http://localhost:5286
+
+GET {{VfxApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

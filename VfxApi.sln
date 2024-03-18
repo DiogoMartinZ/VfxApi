@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VfxApi", "VfxApi\VfxApi.csproj", "{7335BB66-AF49-4059-A2AC-8C29E5F72806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7335BB66-AF49-4059-A2AC-8C29E5F72806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7335BB66-AF49-4059-A2AC-8C29E5F72806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7335BB66-AF49-4059-A2AC-8C29E5F72806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7335BB66-AF49-4059-A2AC-8C29E5F72806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BDE7C0-D668-4938-8C9D-467084499D44}
+	EndGlobalSection
+EndGlobal
